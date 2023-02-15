@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/preset-env", //ES6语法转译
+        "@babel/preset-react", //JSX转译
+        "@babel/preset-typescript" //ts转译
+    ]
+}
